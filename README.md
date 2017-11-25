@@ -4,3 +4,4 @@ This script hides the active windows and their icons whenever you change beetwen
 the current workspace.
 For this script to work, you will need both wmctrl and xdotool. Get them by typping in the terminal:
 sudo apt-get install wmctrl xdotool
+To run the program, double click it, or run in terminal: python3 workspaces
